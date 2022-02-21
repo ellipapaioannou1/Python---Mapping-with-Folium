@@ -1,1 +1,1 @@
-Create a globalmap with multiple markers for volcanoes in USA
+Interactive mapping of volcanoes and population
